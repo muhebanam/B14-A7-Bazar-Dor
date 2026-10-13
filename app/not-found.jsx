@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Home, HelpCircle } from "lucide-react";
 
 export const metadata = {
-  title: "পাতাটি খুঁজে পাওয়া যায়নি — ৪MD৪ বাজার দর",
+  title: "পাতাটি খুঁজে পাওয়া যায়নি — ৪০৪ বাজার দর",
 };
 
 export default function NotFound() {
