@@ -6,7 +6,7 @@
 
 ## 🔗 লাইভ লিঙ্ক ও গিটহাব রিপোজিটরি (Live & GitHub Links)
 
-- **লাইভ প্রিভিউ (Live Site):** [https://bazardor-b14.vercel.app](https://bazardor-b14.vercel.app) *(অথবা আপনার ডিপ্লয়মেন্ট লিঙ্ক)*
+- **লাইভ প্রিভিউ (Live Site):** [https://b14-a7-bazar-dor-self.vercel.app](https://b14-a7-bazar-dor-self.vercel.app)
 - **গিটহাব রিপোজিটরি (GitHub Repository):** [https://github.com/muhebanam/B14-A7-Bazar-Dor](https://github.com/muhebanam/B14-A7-Bazar-Dor)
 
 ---
