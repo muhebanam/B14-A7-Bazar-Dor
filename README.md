@@ -7,7 +7,7 @@
 ## 🔗 লাইভ লিঙ্ক ও গিটহাব রিপোজিটরি (Live & GitHub Links)
 
 - **লাইভ প্রিভিউ (Live Site):** [https://bazardor-b14.vercel.app](https://bazardor-b14.vercel.app) *(অথবা আপনার ডিপ্লয়মেন্ট লিঙ্ক)*
-- **গিটহাব রিপোজিটরি (GitHub Repository):** [https://github.com/ProgrammingHero1/B14-A7-Bazar-Dor](https://github.com/ProgrammingHero1/B14-A7-Bazar-Dor)
+- **গিটহাব রিপোজিটরি (GitHub Repository):** [https://github.com/muhebanam/B14-A7-Bazar-Dor](https://github.com/muhebanam/B14-A7-Bazar-Dor)
 
 ---
 
@@ -89,6 +89,9 @@ npm run start
 
 ---
 
-## 👨‍💻 প্রণয়নে
+## 👨‍💻 প্রণয়নে / Contributor
+- **নাম:** Muheb Anam
 - **ব্যাচ:** Programming Hero Web Development Batch 14
 - **অ্যাসাইনমেন্ট:** B14-A7-Bazar-Dor
+- **গিটহাব:** [https://github.com/muhebanam](https://github.com/muhebanam)
+- **ইমেইল:** md.muheb@gmail.com
