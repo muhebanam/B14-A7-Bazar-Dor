@@ -59,15 +59,18 @@ function SignInForm() {
   const handleDemoLogin = async () => {
     setLoading(true);
     try {
-      try {
-        await authClient.signUp.email({
-          name: "Rezwan Ahmed",
-          email: "rezwanahmed@gmail.com",
-          password: "password123",
-          image: "/profile-avatar.webp",
-        });
-      } catch {
-        // already exists, proceed to sign in
+      const signUpRes = await authClient.signUp.email({
+        name: "Rezwan Ahmed",
+        email: "rezwanahmed@gmail.com",
+        password: "password123",
+        image: "/profile-avatar.webp",
+      });
+
+      if (!signUpRes?.error) {
+        toast.success("ডেমো অ্যাকাউন্ট দিয়ে সাইন ইন সফল হয়েছে!");
+        router.push(callbackUrl);
+        router.refresh();
+        return;
       }
 
       const res = await authClient.signIn.email({
